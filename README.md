@@ -1,1 +1,1 @@
-Projects related to Portfolio
+Projects specifically for SQL
