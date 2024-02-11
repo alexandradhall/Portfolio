@@ -1,4 +1,4 @@
---Test queries to look at the data.
+--Test queries to look at the data. Data can be found https://ourworldindata.org/coronavirus
 --SELECT *
 --FROM PortfolioProjectCovid..CovidDeaths$
 --Order by location, date
